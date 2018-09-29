@@ -1,16 +1,16 @@
 Enter four integers 
-You entered: 2828228 28 44 66 
-The largest integer: 2828228 
+You entered: 28 44 66 82 
 The smallest integer: 28 
-Enter four integers 
-You entered: 82 8 14 22 
 The largest integer: 82 
-The smallest integer: 8 
 Enter four integers 
-You entered: 6 21 38 12 
+You entered: 8 14 22 6 
+The largest integer: 22 
 The smallest integer: 6 
-The largest integer: 38 
 Enter four integers 
-You entered: 16 21 38 12 
+You entered: 21 38 12 16 
 The largest integer: 38 
 The smallest integer: 12 
+Enter four integers 
+You entered: 98 22 45 63 
+The largest integer: 98 
+The smallest integer: 22 

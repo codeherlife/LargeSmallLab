@@ -14,7 +14,6 @@
 
 FILE *fp;
 
-//declare the compare() function prototype before main
 void compare(void);
 
 int main(void) {
@@ -29,10 +28,8 @@ int main(void) {
     return 0;
 }
 
-//write your compare() function definition here
 void compare(){
     int first, second, third, fourth, currentInt;
-    //display the largest of integers
     
     printf(     "Enter four integers \n");
     fprintf(fp, "Enter four integers \n");
@@ -75,6 +72,7 @@ void compare(){
         printf(     "The smallest integer: %d \n", currentInt);
         fprintf(fp, "The smallest integer: %d \n", currentInt);
     }
+    
     return;
 }
 
